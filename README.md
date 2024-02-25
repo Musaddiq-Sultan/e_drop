@@ -8,12 +8,12 @@ E-Drop is a collection of transport services offering wide range of features in 
 
 ## Features
 
-E-Saman
-E-Cargo
-E-Door
-E-Drone
-E-Cab
-E-Shipping
+- E-Saman
+- E-Cargo
+- E-Door
+- E-Drone
+- E-Cab
+- E-Shipping
 
 ## Project Website
 
