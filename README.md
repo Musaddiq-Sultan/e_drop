@@ -21,4 +21,4 @@ Visit our [Official Website](https://edroprides.github.io) for more information.
 
 ## Assets
 
-Download our app - [Download APK](apk/E-Drop.apk)
+Download our app - [Download APK](apk/E-Drop.apk?raw=true)
